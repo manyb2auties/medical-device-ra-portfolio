@@ -43,6 +43,6 @@
 ## 📩 Contact
 
 *   **Email:** [damidang51@gmail.com](mailto:damidang51@gmail.com)
-*   **Resume:** [김다미_이력서.pdf](https://github.com/manyb2auties) *(※ 추후 이력서 링크 연결 가능)*
+*   **Resume:** [김다미_이력서.pdf](https://github.com/manyb2auties) 
 
 ---
